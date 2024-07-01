@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaiaquintana
-- 👀 I’m interested in Lingüistics and NLP
+- 👀 I’m interested in Linguistics and NLP
 - 🌱 I’m currently learning NLP techniques
 - 💞️ I’m looking to collaborate on any kind of NLP projects
 - 📫 How to reach me: https://www.linkedin.com/in/gaiaquintana/
